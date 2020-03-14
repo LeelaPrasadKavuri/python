@@ -19,8 +19,6 @@ def gcd(a,b):
 	else :
 		return gcd(b,a%b)
 	
-
-
 n=int(input())
 d=int(input())
 arr=list(map(int,input().split()))
