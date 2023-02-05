@@ -1,2 +1,2 @@
-# pyhton
+# python
 my python programs 
